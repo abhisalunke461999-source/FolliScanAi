@@ -1,1 +1,26 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Folliscan | Hair & Scalp Analysis</title>
+    <style>
+        body { font-family: sans-serif; display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; margin: 0; background-color: #f4f7f6; color: #333; }
+        .container { text-align: center; padding: 20px; background: white; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); max-width: 400px; }
+        h1 { color: #2c3e50; }
+        .status { color: #27ae60; font-weight: bold; margin-bottom: 20px; }
+        button { background: #3498db; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Folliscan</h1>
+        <p class="status">● Site Live & Connected</p>
+        <p>Your hair health and nutrition analysis tool is under development.</p>
+        <button onclick="alert('Analysis feature coming soon!')">Start Scalp Scan</button>
+    </div>
+
+</body>
+</html>
